@@ -2,6 +2,8 @@
 
 MVP de la première brique CSTAM-OliveSoft : une URL publique est téléchargée, les appels d'offres visibles sont normalisés, stockés dans PostgreSQL puis affichés dans React.
 
+Documentation détaillée : [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md)
+
 ## Lancement Docker
 
 Prérequis : Docker Desktop avec Compose.
